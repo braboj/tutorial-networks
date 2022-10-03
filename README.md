@@ -10,8 +10,9 @@ devices can exchange information.
 - binary system, bit, byte, encoding, ASCII
 - RS-232, Ethernet, IP, TCP, UDP, DHCP, DNS
 - OSI Model, ARPA Model
+- Internet protocols
 
-### What is communication?
+### Let there be light ...
 ___________________________________________________________________________________________________
 
 
@@ -47,7 +48,7 @@ Ways of communication
 - Show a duplex circuit (morse code)
 
 
-### Telegraph: from light to voltage
+### Telegraph: from light to volt
 ___________________________________________________________________________________________________
 
 The lenght of a dot is one unit: dit
@@ -88,7 +89,7 @@ Workshop:
 - Demonstrate the telegraph with a simple circuit involving resistors and diodes
 
 
-### RS-232: pack the data
+### RS-232: Pack the data
 ___________________________________________________________________________________________________
 
 The problem with the telegraph is that it uses a lot of pauses. For every pulse transmitted there
@@ -142,7 +143,7 @@ Workshop: Two laptops with RS-232 and communication configuration
 
 
 
-### The client is always right and the master has the word
+### Client/Server: Who is who?
 ___________________________________________________________________________________________________
 
 - Draw Tx/Rx lines and connect them at random, show logical bus and physical daisy-chain topologies
